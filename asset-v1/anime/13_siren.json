@@ -1,0 +1,11 @@
+{
+	"animeName":"13_siren",
+	"percentageMax":"0.2",
+	"totalFrame":"328",
+	"width":"164",
+	"height":"380",
+	"headHeight":"250",
+	"arrayFrame":[
+	{"prop":"164,630,0,0"}
+	]
+}
