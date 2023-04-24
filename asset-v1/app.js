@@ -1,84 +1,84 @@
 /* 0.5.4 2023-0X-XX 00:00:00 */
 var app = new function() {
-    this.name = "Forever", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 8727, this.bpm = 110, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#121212", this.col0 = "#919191", this.col1 = "#5f5f5f", this.col2 = "#4b4b4b", this.col3 = "#373737", this.col4 = "#232323", this.animearray = [{
+    this.name = "Battle", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 8727, this.bpm = 110, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#121212", this.col0 = "#919191", this.col1 = "#5f5f5f", this.col2 = "#4b4b4b", this.col3 = "#373737", this.col4 = "#232323", this.animearray = [{
         name: "1_kicker",
-        color: "828282",
+        color: "FF66A8",
         uniqsnd: !0
     }, {
         name: "2_clap",
-        color: "828282",
+        color: "FF66A8",
         uniqsnd: !0
     }, {
         name: "3_snaresque",
-        color: "828282",
+        color: "FF66A8",
         uniqsnd: !0
     }, {
         name: "4_clickclick",
-        color: "828282",
+        color: "FF66A8",
         uniqsnd: !0
     }, {
         name: "5_cymbal",
-        color: "828282",
+        color: "FF66A8",
         uniqsnd: !0
     }, {
         name: "6_bassus",
-        color: "828282",
+        color: "9167E1",
         uniqsnd: !0
     }, {
         name: "7_scratch",
-        color: "828282",
+        color: "9167E1",
         uniqsnd: !0
     }, {
         name: "8_trill",
-        color: "828282",
+        color: "9167E1",
         uniqsnd: !0
     }, {
         name: "9_bass",
-        color: "828282",
+        color: "9167E1",
         uniqsnd: !0
     }, {
         name: "10_uh",
-        color: "828282",
+        color: "9167E1",
         uniqsnd: !0
     }, {
         name: "11_pian",
-        color: "828282",
+        color: "3CFFE5",
         uniqsnd: !0
     }, {
         name: "12_vibra",
-        color: "828282",
+        color: "3CFFE5",
         uniqsnd: !0
     }, {
         name: "13_siren",
-        color: "828282",
+        color: "3CFFE5",
         uniqsnd: !0
     }, {
         name: "14_saw",
-        color: "828282",
+        color: "3CFFE5",
         uniqsnd: !0
     }, {
         name: "15_synthia",
-        color: "828282",
+        color: "3CFFE5",
         uniqsnd: !0
     }, {
         name: "16_aoun",
-        color: "828282",
+        color: "0000FF",
         uniqsnd: !0
     }, {
         name: "17_hum",
-        color: "828282",
+        color: "0000FF",
         uniqsnd: !0
     }, {
         name: "18_get",
-        color: "828282",
+        color: "0000FF",
         uniqsnd: !0
     }, {
         name: "19_tellme",
-        color: "828282",
+        color: "0000FF",
         uniqsnd: !0
     }, {
         name: "20_make",
-        color: "828282",
+        color: "0000FF",
         uniqsnd: !0
     }], this.bonusarray = [/*no bonus lol*/];
     for (var n = 0, o = this.animearray.length; n < o; n++) {

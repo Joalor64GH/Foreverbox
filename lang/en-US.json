@@ -39,10 +39,10 @@
                 "other": "%{count} results"
             },
             "ago": "%{date_time} ago",
-            "baseline": "Insert text here",
+            "baseline": "The mod ever",
             "useHeadphones": "For the best experience, use your headphones",
-            "selectVersion": "Have fun!",
-            "enjoyVersion": "this is all lmao",
+            "selectVersion": "Select a version to start",
+            "enjoyVersion": "This mod is still a demo",
             "tuto1": "<b>Drag and drop</b> an icon on<br>a character to have him sing",
             "tuto2": "<b>Drag down</b> a character<br>to have him stop singing",
             "tuto3": "<b>Press</b> on a character<br>to mute him",
