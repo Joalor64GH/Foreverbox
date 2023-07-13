@@ -1,6 +1,6 @@
-/* 0.5.4 2023-06-XX 00:00:00 */
+/* 0.5.4 2023-07-XX 00:00:00 */
 var app = new function() {
-    this.name = "Battle", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 8727, this.bpm = 110, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#7905ff", this.col0 = "#7905ff", this.col1 = "#7905ff", this.col2 = "#7905ff", this.col3 = "#320169", this.col4 = "#7905ff", this.animearray = [{
+    this.name = "Battle", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 8727, this.bpm = 110, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#7905ff", this.col0 = "#7905ff", this.col1 = "#7905ff", this.col2 = "#320169", this.col3 = "#320169", this.col4 = "#320169", this.animearray = [{
         name: "1_kicker",
         color: "FF66A8",
         uniqsnd: !0
