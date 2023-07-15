@@ -5248,7 +5248,7 @@ video::-webkit-media-controls {
 }
 
 .box-popup#pop-album .pop {
-	background-image: linear-gradient(180deg, rgba(29, 74, 140, .2), rgba(29, 74, 140, 0) 80%)
+	background-image: linear-gradient(180deg, rgba(0, 242, 255, 0.277), rgba(29, 74, 140, 0) 80%)
 }
 
 .box-popup#pop-album .pop #img-album img {
