@@ -62,23 +62,23 @@ var app = new function() {
         uniqsnd: !0
     }, {
         name: "16_aoun",
-        color: "0000FF",
+        color: "2B00FF",
         uniqsnd: !0
     }, {
         name: "17_hum",
-        color: "0000FF",
+        color: "2B00FF",
         uniqsnd: !0
     }, {
         name: "18_get",
-        color: "0000FF",
+        color: "2B00FF",
         uniqsnd: !0
     }, {
         name: "19_tellme",
-        color: "0000FF",
+        color: "2B00FF",
         uniqsnd: !0
     }, {
         name: "20_make",
-        color: "0000FF",
+        color: "2B00FF",
         uniqsnd: !0
     }], this.bonusarray = [/*no bonus lol*/];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
