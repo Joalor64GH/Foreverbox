@@ -1,8 +1,8 @@
 # Foreverbox
 
-Work in progress...
+What is this mod?
 
-The readme will be finished soon ;)
+I don't really know yet. But, it exists.
 
 # Play Here
 
