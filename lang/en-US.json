@@ -39,9 +39,9 @@
                 "other": "%{count} results"
             },
             "ago": "%{date_time} ago",
-            "baseline": "The epic demo",
+            "baseline": "The totally mod ever",
             "useHeadphones": "For the best experience, use your headphones",
-            "selectVersion": "Enjoy the demo!",
+            "selectVersion": "Select a version to start!",
             "enjoyVersion": "Enjoy other...wait.",
             "tuto1": "<b>Drag and drop</b> an icon on<br>a character to have him sing",
             "tuto2": "<b>Drag down</b> a character<br>to have him stop singing",

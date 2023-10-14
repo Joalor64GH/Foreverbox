@@ -2,7 +2,7 @@
 
 What is this mod?
 
-I don't really know yet. But, it exists.
+The mod ever, that's what.
 
 # Play Here
 

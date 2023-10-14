@@ -3944,7 +3944,7 @@ body:not(.fluid) #box-top.random #box-bt2 #box-bt2-bck {
 	position: absolute;
 	width: inherit;
 	height: inherit;
-	background-image: url(../img/bt-bonus.svg);
+	background-image: url(../img/bt-bonus.png);
 	background-repeat: no-repeat;
 	background-size: 210px 630px;
 	background-position: 0 -630px;
@@ -5369,7 +5369,7 @@ video::-webkit-media-controls {
 	width: 217px;
 	height: 165px;
 	margin: -20px auto 10px;
-	background-image: url(../img/bonus-unlock-clap.svg);
+	background-image: url(../img/bonus-unlock-clap.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	opacity: 0;
@@ -5380,7 +5380,7 @@ video::-webkit-media-controls {
 }
 
 .darkmode .box-popup.pop-bonus-unlock .box .pop .container .popimg {
-	background-image: url(../img/bonus-unlock-clap-darkmode.svg)
+	background-image: url(../img/bonus-unlock-clap-darkmode.png)
 }
 
 @-webkit-keyframes R {
@@ -7539,4 +7539,3 @@ body.ultrawide .box-popup.middle .flex {
 .flag.flag-zw {
 	background-position: -336px -336px
 }
-
