@@ -8,3 +8,4 @@ The mod ever, that's what.
 
 * https://foreverbox.netlify.app/
 * https://joalor64gh.github.io/Foreverbox/
+* https://sites.google.com/view/joalor64website-new/foreverbox/
