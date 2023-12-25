@@ -11,6 +11,6 @@ The mod ever, that's what.
 
 # Downloads
 
-* PC: https://mega.nz/file/WDQBgARY#6Ms7zx2qEg6pyOgFNrjQVXQSGg3J8IheM8KF-fHCNx4
-* Android: https://mega.nz/file/SP40jIIQ#CEsEoQimucu_k7lR3Vi_7sQMOiQmm1p9UaxlRIaeMek
+* PC: https://mega.nz/file/fHghmCpL#AK8fCsP24j0tRh_h-nXtDOeoxtW_76RD16Ca3jhsAec
+* Android: https://mega.nz/file/bXxBDIwY#8qX5wxWBFM5qPqx00JMRgXkSCMA4L1_sKZXXZ2mcOiI
 * Android (Demo): https://mega.nz/file/mboHxIqD#dhnBTrsGT4hVUbTevXofD1UNcnzRLZK6BNDmd81EpFI
