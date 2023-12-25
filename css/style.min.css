@@ -5,7 +5,7 @@
 	--col2: #4b4b4b;
 	--col3: #373737;
 	--col4: #232323;
-	--darkmode-bck: #111
+	--darkmode-bck: #080025
 }
 
 .darkmode ::-webkit-scrollbar {
@@ -13,11 +13,11 @@
 }
 
 .darkmode ::-webkit-scrollbar-track {
-	background: #333
+	background: #080025
 }
 
 .darkmode ::-webkit-scrollbar-thumb {
-	background: #444
+	background: #0c0352
 }
 
 .darkmode ::-webkit-scrollbar-thumb:hover {
@@ -934,7 +934,7 @@ body.miniPlayer #lock-pause .bt .bck {
 }
 
 #sp-select .icon#icon2 .bul {
-	background-color: #c32d2d
+	background-color: #006071
 }
 
 #sp-select .icon#icon3 .bul {
@@ -5248,7 +5248,7 @@ video::-webkit-media-controls {
 }
 
 .box-popup#pop-album .pop {
-	background-image: linear-gradient(180deg, rgba(57, 0, 214, 0.277), rgba(29, 74, 140, 0) 80%)
+	background-image: linear-gradient(180deg, rgba(31, 44, 189, 0.277), rgba(29, 74, 140, 0) 80%)
 }
 
 .box-popup#pop-album .pop #img-album img {
