@@ -8,10 +8,10 @@
                 "Mar.",
                 "Apr.",
                 "May",
-                "June",
-                "July",
+                "Jun.",
+                "Jul.",
                 "Aug.",
-                "Sept.",
+                "Sep.",
                 "Oct.",
                 "Nov.",
                 "Dec."
@@ -59,7 +59,7 @@
             "replayText": "Does your mix sound good? Then save it and share it!",
             "randomTitle": "Automatic mode",
             "randomText": "Let the App play for you. Pump it up and enjoy!",
-            "copyright": "Mod by Joalor64<br><span>Copyright © 2023 All rights reserved</span>",
+            "copyright": "Mod by Joalor64<br><span>Copyright © 2024 All rights reserved</span>",
             "team": "Director, code & animation<br>Design & illustration<br>Music & sound design",
             "stayTuned": "Stay tuned!",
             "visitShop": "Open Source on GitHub!",
@@ -75,7 +75,7 @@
             "language": "Language",
             "comments": "Comments",
             "thanks": "Thank you",
-            "quitAppConfirm": "Do you really want to quit Incredibox?",
+            "quitAppConfirm": "Do you really want to quit Foreverbox?",
             "prezAlbum": "If you enjoy the mod, consider subscribing to me!",
             "termsAgreed": "I agreed with the general terms of use",
             "codeEnter": "Enter your code",
@@ -116,7 +116,7 @@
             "bonusFindNextTitle": "Yay!",
             "bonusFindNextText": "Find the next combo<br>to unlock the next bonus &#127916;",
             "bonusFindPreviousTitle": "Bonus locked",
-            "bonusFindPreviousText": "Complete the previous bonus first<br>to unlock this one &#128523;",
+            "bonusFindPreviousText": "Unlock the previous bonus first<br>to unlock this one &#128523;",
             "recOkTitle": "Mix finished",
             "formTitle": "Save your mix",
             "formEmailTitle": "Share this mix by email",
@@ -150,7 +150,7 @@
         "dial": {
             "bluetoothLatencyTitle": "Bluetooth bug",
             "bluetoothLatencyText": "Sorry dude, we've had to disconnect your Bluetooth due to an audio problem. You can connect to it again.",
-            "noNetworkTextCn": "Please connect to internet to play Incredibox."
+            "noNetworkTextCn": "Please connect to internet to play Foreverbox."
         },
         "bt": {
             "fullscreen": "Fullscreen",
@@ -159,7 +159,7 @@
             "enterModeHD": "Switch to HD mode",
             "exitModeHD": "Exit HD mode",
             "minimizeWindow": "Minimize",
-            "quitApp": "Quit Incredibox",
+            "quitApp": "Quit Foreverbox",
             "quit": "Quit",
             "saveFile": "Save file",
             "exportFile": "Export",
