@@ -45,7 +45,9 @@ var app = new function() {
         {name: "20_cuckoo", color: "2B00FF", uniqsnd: !0}
     ], 
     this.bonusarray = [
-        {name: "Prepare", src: "bonus_prepare-hb.mp4", code: "1,3,6,11,19", sound: "21_bonus_prepare", aspire: "aspire-prepare"}
+        {name: "Prepare", src: "bonus_prepare-hb.mp4", code: "1,3,6,11,19", sound: "21_bonus_prepare", aspire: "aspire-prepare"},
+        {name: "Chaos", src: "bonus_chaos-hb.mp4", code: "2,3,7,13,14", sound: "22_bonus_chaos", aspire: "aspire-chaos"},
+        {name: "Saved", src: "bonus_saved-hb.mp4", code: "4,6,12,15,18", sound: "23_bonus_saved", aspire: "aspire"}
     ];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;
