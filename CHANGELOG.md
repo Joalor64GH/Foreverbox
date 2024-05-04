@@ -1,5 +1,8 @@
 # Changelog
 
+## [V3.0] - 2024-5-4 (Latest)
+* V3: New Era Release
+
 ## [V2.5] - 2024-4-27 (Latest)
 * V1: Battle (All Bonuses)
 * V2: Ascension (All Bonuses)
