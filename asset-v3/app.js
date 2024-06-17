@@ -47,11 +47,9 @@ var app = new function() {
         {name: "21_bonus", color: "ffffff", uniqsnd: !0}
     ], 
     this.bonusarray = [
-        {name: "Divinity", src: "bonus_divinity-hb.mp4", code: "1,3,6,12,16", sound: "22_bonus_divinity", aspire: "aspire"}
-        /*
-        {name: "Bonus 2", src: "bonus-hb.mp4", code: "1,2,6,9,10", sound: "23_bonus", aspire: "aspire"},
-        {name: "Bonus 3", src: "bonus-hb.mp4", code: "4,6,8,14,20", sound: "24_bonus", aspire: "aspire"}
-        */
+        {name: "Divinity", src: "bonus_divinity-hb.mp4", code: "1,3,6,12,16", sound: "22_bonus_divinity", aspire: "aspire"},
+        {name: "Aurora Circuit", src: "bonus_aurora-circuit-hb.mp4", code: "1,2,6,9,19", sound: "23_bonus_aurora", aspire: "aspire"},
+        {name: "Crystal Pathways", src: "bonus_crystal-pathways-hb.mp4", code: "6,8,14,15,20", sound: "24_bonus_crystal", aspire: "aspire"}
     ];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;

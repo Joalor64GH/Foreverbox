@@ -1,6 +1,9 @@
 # Changelog
 
-## [V3.0] - 2024-5-4 (Latest)
+## [V3.5] - 2024-6-17 (Latest)
+* V3: New Era (All Bonuses)
+
+## [V3.0] - 2024-5-4
 * V3: New Era Release
 
 ## [V2.5] - 2024-4-27
