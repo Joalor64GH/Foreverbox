@@ -8,8 +8,8 @@ Feel free to check out the [changelog](/CHANGELOG.md).
 * https://sites.google.com/view/joalor64website-new/foreverbox/
 
 ## Downloads
-* PC: https://mega.nz/file/3fRHGaTQ#CIXVXfFRWdb8WX88b0gl9T0-975Kogh-n6f-uTXpH8U
-* Android: https://www.mediafire.com/file/j7f9mqcg4h7w3b4/ForeverboxV3.5_signed.apk/file
+* PC: https://mega.nz/file/fHghmCpL#AK8fCsP24j0tRh_h-nXtDOeoxtW_76RD16Ca3jhsAec
+* Android: https://mega.nz/file/GeB1hIQI#_1doR18TWxRespbA2Vepzq0Ph_7W3Bm2h8jmo0_1zaw
 
 ## Credits
 * Joalor64 - Made the Mod

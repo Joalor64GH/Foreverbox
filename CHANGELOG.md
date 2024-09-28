@@ -1,6 +1,12 @@
 # Changelog
 
-## [V3.5] - 2024-6-17 (Latest)
+## [V4.0] - 2024-09-28 (Latest)
+* V4: Golden Sands Release
+* Vite Support (Web Exclusive)
+* Dynamic BGs for almost all versions
+* Fixed Audio for V2: Ascension Bonus 2
+
+## [V3.5] - 2024-6-17
 * V3: New Era (All Bonuses)
 
 ## [V3.0] - 2024-5-4
