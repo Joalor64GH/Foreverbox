@@ -6,13 +6,13 @@
 * Dynamic BGs for almost all versions
 * Fixed Audio for V2: Ascension Bonus 2
 
-## [V3.5] - 2024-6-17
+## [V3.5] - 2024-06-17
 * V3: New Era (All Bonuses)
 
-## [V3.0] - 2024-5-4
+## [V3.0] - 2024-05-4
 * V3: New Era Release
 
-## [V2.5] - 2024-4-27
+## [V2.5] - 2024-04-27
 * V1: Battle (All Bonuses)
 * V2: Ascension (All Bonuses)
 * Updated tutorial graphics
@@ -35,5 +35,5 @@
 ## [V1.0] - 2023-10-14
 * V1: Battle Full Version
 
-## [V1.0-DEMO] - 2023-8-10
+## [V1.0-DEMO] - 2023-08-10
 * V1: Battle Demo Release
