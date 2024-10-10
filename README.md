@@ -2,7 +2,7 @@
 What is this mod? <br>
 The mod ever, that's what.
 
-Feel free to check out the [changelog](/CHANGELOG.md).
+Feel free to check out the [changelog](./CHANGELOG.md).
 
 ## Play on My Website
 * https://sites.google.com/view/joalor64website-new/foreverbox/
